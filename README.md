@@ -3,57 +3,40 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-   Sou Bacharel em Sistemas de Informação e estou aprofundando meu conhecimento como Desenvolvedor Front-end. Minha jornada profissional tem sido marcada por desafios que encontro em comunidades de front-end e projetos pessoais.
-Minha motivação é impulsionada pela inovação e pela busca constante de aprimoramento. Assim, veja meu background:
+🎓 Bacharel em Sistemas de Informação
+💻 Desenvolvedor Full Stack
+
+Atuo no desenvolvimento de aplicações web utilizando React, TypeScript e Node.js, com experiência em integrações REST e organização de regras de negócio na camada de aplicação.
+
+Tenho forte interesse em arquitetura Front-End, validação de dados com Zod, tipagem avançada com TypeScript e boas práticas de código.
+
+Atualmente participo de projetos no contexto da Indústria 4.0, onde tecnologia e processos industriais se conectam para gerar eficiência operacional.
 </p>
 
 
 ##
 
-
-| Tecnologia               |                       |
-|--------------------------|-----------------------|
-| HTML5                    |                       |
-| CSS3                     |                       |
-| SASS                     |                       |
-| Styled-components        |                       |
-| Web Semântica            |                       |
-| React.js                 |                       |
-| JavaScript               |                       |
-| TypeScript               | Experiência em curso  |
-| API Rest                 |                       |
-| Banco de Dados           | SQL Server            |
-| Sistemas Operacionais    | Windows e Linux       |
-| Docker                   | Experiência em curso  |
-
- <div style="display: inline_block"><br>
-  <img align="center" alt="Deme-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Deme-typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Deme-react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-     
-  <img align="center" alt="Deme-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Deme-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Deme-sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-
-          
-  <img align="center" alt="Deme-docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img align="center" alt="Deme-docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img align="center" alt="Deme-docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+🚀 Stack Principal
 
 
+| Tecnologia               | Nível / Observação            |
+|--------------------------|-------------------------------|
+| React.js                 | Experiência prática em projetos reais |
+| TypeScript               | Uso com tipagem avançada e Zod |
+| JavaScript               | ES6+                          |
+| HTML5                    | Estrutura semântica           |
+| CSS3                     | Layout e responsividade       |
+| SASS                     | Organização de estilos        |
+| Styled-components        | CSS-in-JS                     |
+| Web Semântica            | Boas práticas de acessibilidade |
+| API REST                 | Integração e consumo de APIs  |
+| Node.js / Express        | Construção de APIs            |
+| Banco de Dados           | SQL Server e PostgreSQL       |
+| Sistemas Operacionais    | Windows e Linux               |
+| Docker                   | Containerização básica        |
 
-##
 
-
-<div align="center">
-  <a href="https://github.com/DevDemetrio">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=DevDemetrio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDemetrio&layout=compact&langs_count=7&theme=dracula"/>
-     
-</div>
-   
-
-##
+ 
 
     🌱 Desenvolvedor Front-end Web
     🧑‍💼 https://devdemetrio.com/
