@@ -14,7 +14,10 @@ Atualmente participo de projetos no contexto da Indústria 4.0, onde tecnologia 
 </p>
 
 
+
 ##
+
+
 
 🚀 Stack Principal
 
@@ -34,6 +37,7 @@ Atualmente participo de projetos no contexto da Indústria 4.0, onde tecnologia 
 | Banco de Dados           | SQL Server e PostgreSQL       |
 | Sistemas Operacionais    | Windows e Linux               |
 | Docker                   | Containerização básica        |
+
 
 
  
